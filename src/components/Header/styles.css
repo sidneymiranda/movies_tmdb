@@ -1,0 +1,11 @@
+header{
+  display: flex;
+  justify-content: center;
+  background-color: #00008b;
+  padding: 1.0rem;
+}
+
+h1 {
+  font: 100 1.6rem Abel;
+  color: #fff;
+}

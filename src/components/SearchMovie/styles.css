@@ -1,0 +1,28 @@
+.form-container-movie {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.form-container-movie form {
+  display: grid;
+  position: relative;
+  margin-top: 2rem;
+}
+.form-container-movie input {
+  width: 100%;
+  height: 2.5rem;
+  line-height: 2.5rem;
+  border-radius: 1.2rem;  
+  font: 1rem Abel;
+  border: none;
+  text-indent: 1.5rem;
+  background-color: #eeeef0;
+  outline: none;
+}
+
+/* @media (max-width: 786px) {
+  .form-container-movie form {
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+  }
+} */
