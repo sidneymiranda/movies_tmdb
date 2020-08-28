@@ -3,12 +3,16 @@ Projeto desenvolvido por mim, Sidney Miranda, como etapa de participação do pr
 O mesmo ainda encontra-se em **desenvolvimento**.
 
 Trata-se de um webapp responsivo que consome a API do [The Movie DB](https://www.themoviedb.org/documentation/api) trazendo informações do seu catálogo 
-de filmes de acordo com o informado.
+de filmes de acordo com o informado. <br />
 
-##  Scripts Disponíveis	##
 
-No diretório do projeto, execute:
+Para utilizar o webapp é necessário ter uma key fornecido pelo TMDB, para isso basta ir no site e efetuar o seu cadastro.
 
+### No diretório do projeto ###
+
+Com a api_key em mão, crie o arquivo `.env` e dentro dele, salve a key atribuindo à variável: `REACT_APP_API`
+
+###  Scripts Disponíveis	###
 
 ### `npm i`
 
